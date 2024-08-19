@@ -1,0 +1,12 @@
+site_name: My Docs
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'light-blue'
+
+plugins:
+  - search
+  - mermaid2
+  - mkdocstrings
