@@ -1,1 +1,1 @@
-# data-quality
+# Workshop Data Quality
